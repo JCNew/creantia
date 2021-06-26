@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/creantia/static/css/main.8cdc337f.chunk.css",
+    "main.js": "/creantia/static/js/main.a9602c54.chunk.js",
+    "main.js.map": "/creantia/static/js/main.a9602c54.chunk.js.map",
+    "runtime-main.js": "/creantia/static/js/runtime-main.c9c4f820.js",
+    "runtime-main.js.map": "/creantia/static/js/runtime-main.c9c4f820.js.map",
+    "static/js/2.f06f72b4.chunk.js": "/creantia/static/js/2.f06f72b4.chunk.js",
+    "static/js/2.f06f72b4.chunk.js.map": "/creantia/static/js/2.f06f72b4.chunk.js.map",
+    "static/js/3.62e1dce3.chunk.js": "/creantia/static/js/3.62e1dce3.chunk.js",
+    "static/js/3.62e1dce3.chunk.js.map": "/creantia/static/js/3.62e1dce3.chunk.js.map",
+    "index.html": "/creantia/index.html",
+    "static/css/main.8cdc337f.chunk.css.map": "/creantia/static/css/main.8cdc337f.chunk.css.map",
+    "static/js/2.f06f72b4.chunk.js.LICENSE.txt": "/creantia/static/js/2.f06f72b4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9c4f820.js",
+    "static/js/2.f06f72b4.chunk.js",
+    "static/css/main.8cdc337f.chunk.css",
+    "static/js/main.a9602c54.chunk.js"
+  ]
+}
